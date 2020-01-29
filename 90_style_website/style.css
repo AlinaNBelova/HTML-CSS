@@ -1,0 +1,45 @@
+body{
+    background-color: blue;
+    font-size: large;
+}
+.header{
+    height: 20 vh;
+    width: 100%;
+}
+div{
+    width: 100%;
+    display: flex;
+    color: antiquewhite;
+
+}
+
+ul{ color:rgb(235, 57, 160);
+
+}
+a{
+    width: 40%;
+    color:rgb(235, 57, 160);
+    font-size: large;
+}
+#image_we_are{
+    height: 80vh;
+    
+    align-items: center;
+
+}
+h1{ 
+    color: yellow;
+    font-size: 75px;
+    
+}
+table{
+    width: fit-content;
+}
+.elec{
+    width: 250px;
+}
+.wind{
+    height:60vh;
+
+}
+
